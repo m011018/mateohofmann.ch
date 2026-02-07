@@ -690,7 +690,7 @@ body {
         padding-left: 24px;
     }
 
-    .timeline-item::before {
+    .timeline-item:not(:last-child)::before {
         left: 5px;
         top: 0;
     }
