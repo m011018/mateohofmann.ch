@@ -8,7 +8,9 @@
       "Bash(git branch:*)",
       "Bash(git push:*)",
       "Bash(gh auth login:*)",
-      "Bash(git remote set-url:*)"
+      "Bash(git remote set-url:*)",
+      "Bash(dir:*)",
+      "Bash(powershell:*)"
     ]
   }
 }

@@ -317,7 +317,15 @@ body {
     font-size: 1rem;
     color: var(--primary);
     font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.timeline-content .role-context {
+    font-style: italic;
+    font-size: 0.9rem;
+    color: var(--text-light);
     margin-bottom: 16px;
+    line-height: 1.5;
 }
 
 .timeline-content ul {
